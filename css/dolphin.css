@@ -21,13 +21,13 @@ html {
 /* Write your solution here */
 
 @media only screen and (max-width: 1170px ){
-  #monkey{
+  #dolphin{
     position: absolute;
     top: 0px;
   }
 
 @media only screen and (max-width: 406px ){
-  #monkey{
+  #dolphin{
     position: absolute;
     top: 550px;
   }
