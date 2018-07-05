@@ -24,10 +24,12 @@ html {
   #dolphin{
     position: absolute;
     top: 0px;
+    transform: rotate(0.5turn);
   }
 
 @media only screen and (max-width: 406px ){
   #dolphin{
     position: absolute;
     top: 550px;
+    transform: rotate(1.5turn);
   }
