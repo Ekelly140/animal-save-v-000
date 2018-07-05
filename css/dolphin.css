@@ -31,5 +31,5 @@ html {
   #dolphin{
     position: absolute;
     top: 550px;
-    transform: rotate(.75turn);
+    transform: rotate(1turn);
   }
